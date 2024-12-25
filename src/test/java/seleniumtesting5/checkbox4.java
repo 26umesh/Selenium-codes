@@ -18,7 +18,7 @@ public class checkbox4 {
 		boolean h=checkbox.isSelected();
 		if(h)
 		{
-			System.out.println("checkbox is selected");
+			System.out.println("checkbox is selected new");
 		}
 		else
 		{
